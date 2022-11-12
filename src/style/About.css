@@ -1,0 +1,10 @@
+.about h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.3rem;
+}
+
+.about p {
+  line-height: 1rem;
+  font-size: 18px;
+  color: var(--DarkGray);
+}
